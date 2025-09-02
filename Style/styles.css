@@ -1,0 +1,48 @@
+body {
+  min-height: 100vh;
+  box-sizing: border-box;
+  background-image: radial-gradient(circle, #00000099 50%, #28152e4f 100%),
+    url(../Source/Fundo.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.title {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px; /* Espaço opcional acima do título */
+}
+
+.title h1 {
+  text-align: center;
+  font-size: 2.5rem; /* Ajuste o tamanho conforme desejar */
+  color: #fff; /* Cor opcional */
+  margin: 0;
+}
+
+.sobre-container {
+  width: 180px;
+  height: 80px;
+  display: flex;
+  padding: 20px;
+  background-color: rgba(78, 12, 50, 0.8);
+  border-radius: 8px;
+}
+
+.sobre-container a {
+  color: #fff;
+  font-size: 2rem;
+  line-height: 1.6;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.sobre-container img {
+  width: 124px;
+  height: 124px;
+  display: inline-block;
+}
