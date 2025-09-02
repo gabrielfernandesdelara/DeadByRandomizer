@@ -5,6 +5,10 @@ body {
     url(../Source/Fundo.jpg);
   background-size: cover;
   background-position: center;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-y: hidden;
 }
 
 .title {
@@ -12,37 +16,167 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 40px; /* Espaço opcional acima do título */
+  margin-top: 40px;
 }
 
 .title h1 {
   text-align: center;
-  font-size: 2.5rem; /* Ajuste o tamanho conforme desejar */
-  color: #fff; /* Cor opcional */
+  font-size: 2.5rem;
+  color: #fff;
   margin: 0;
 }
 
-.sobre-container {
-  width: 180px;
-  height: 80px;
+.about-container {
+  width: 70px;
+  height: 60px;
   display: flex;
   padding: 20px;
-  background-color: rgba(78, 12, 50, 0.8);
+  background-color: #2b333f;
   border-radius: 8px;
+  margin-bottom: 24px;
+  overflow: hidden;
+  transition: height 2s, background-color 0.3s;
 }
 
-.sobre-container a {
+.about-container a {
   color: #fff;
   font-size: 2rem;
   line-height: 1.6;
-  margin: 0;
   display: flex;
   align-items: center;
   text-decoration: none;
 }
 
-.sobre-container img {
-  width: 124px;
-  height: 124px;
+.about-container img {
+  width: 126px;
+  height: 126px;
   display: inline-block;
+}
+
+.about-container:hover {
+  background-color: #414d5f;
+  cursor: pointer;
+  width: 160px;
+  box-shadow: #332622 0px 4px 8px;
+}
+
+.randomizer-container {
+  width: 150px;
+  height: 60px;
+  display: flex;
+  padding: 20px;
+  background-color: #2b333f;
+  border-radius: 8px;
+  margin-bottom: 24px;
+  overflow: hidden;
+  transition: height 0.4s, background-color 0.3s;
+}
+
+.randomizer-container a {
+  color: #fff;
+  font-size: 2rem;
+  line-height: 1.6;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  gap: 42px;
+}
+
+.randomizer-container img {
+  width: 96px;
+  height: 96px;
+  display: inline-block;
+}
+
+.randomizer-container:hover {
+  background-color: #414d5f;
+  cursor: pointer;
+  width: 280px;
+  box-shadow: #332622 0px 4px 8px;
+}
+
+.main-container {
+  background-color: #ffffff9d;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.filter-container {
+  background-color: #ffffff9d;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 20px;
+  border-radius: 20px;
+  width: 300px;
+  height: 20px;
+  gap: 12px;
+}
+
+.filter-container label {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.filter-container option {
+  font-size: 1.2rem;
+  padding: 5px;
+}
+
+.filter-container button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  background-color: #2b333f;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.button-randomizer-container {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-randomizer-container button {
+  padding: 15px 30px;
+  font-size: 1.5rem;
+  background-color: #2b333f;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+.button-randomizer-container button:hover {
+  background-color: #414d5f;
+  transform: scale(1.05);
+  box-shadow: #332622 0px 4px 8px;
 }

@@ -1,0 +1,646 @@
+[
+  {
+    "name": "Aceinthehole",
+    "icon": "Source/Perks Survivor/iconPerks_AceInTheHole.png"
+  },
+  {
+    "name": "Adrenaline",
+    "icon": "Source/Perks Survivor/iconPerks_Adrenaline.png"
+  },
+  {
+    "name": "Aftercare",
+    "icon": "Source/Perks Survivor/iconPerks_Aftercare.png"
+  },
+  {
+    "name": "Alert",
+    "icon": "Source/Perks Survivor/iconPerks_Alert.png"
+  },
+  {
+    "name": "Anymeansnecessary",
+    "icon": "Source/Perks Survivor/iconPerks_AnyMeansNecessary.png"
+  },
+  {
+    "name": "Appraisal",
+    "icon": "Source/Perks Survivor/iconPerks_Appraisal.png"
+  },
+  {
+    "name": "Autodidact",
+    "icon": "Source/Perks Survivor/iconPerks_Autodidact.png"
+  },
+  {
+    "name": "Babysitter",
+    "icon": "Source/Perks Survivor/iconPerks_babySitter.png"
+  },
+  {
+    "name": "Backgroundplayer",
+    "icon": "Source/Perks Survivor/iconPerks_BackgroundPlayer.png"
+  },
+  {
+    "name": "Balancedlanding",
+    "icon": "Source/Perks Survivor/iconPerks_BalancedLanding.png"
+  },
+  {
+    "name": "Bardicinspiration",
+    "icon": "Source/Perks Survivor/iconPerks_BardicInspiration.png"
+  },
+  {
+    "name": "Betterthannew",
+    "icon": "Source/Perks Survivor/iconPerks_BetterThanNew.png"
+  },
+  {
+    "name": "Bettertogether",
+    "icon": "Source/Perks Survivor/iconPerks_betterTogether.png"
+  },
+  {
+    "name": "Bitethebullet",
+    "icon": "Source/Perks Survivor/iconPerks_BiteTheBullet.png"
+  },
+  {
+    "name": "Blastmine",
+    "icon": "Source/Perks Survivor/iconPerks_BlastMine.png"
+  },
+  {
+    "name": "Bloodpact",
+    "icon": "Source/Perks Survivor/iconPerks_BloodPact.png"
+  },
+  {
+    "name": "Bloodrush",
+    "icon": "Source/Perks Survivor/iconPerks_BloodRush.png"
+  },
+  {
+    "name": "Boilover",
+    "icon": "Source/Perks Survivor/iconPerks_BoilOver.png"
+  },
+  {
+    "name": "Bond",
+    "icon": "Source/Perks Survivor/iconPerks_Bond.png"
+  },
+  {
+    "name": "Booncircleofhealing",
+    "icon": "Source/Perks Survivor/iconPerks_BoonCircleOfHealing.png"
+  },
+  {
+    "name": "Boondestroyer",
+    "icon": "Source/Perks Survivor/iconPerks_BoonDestroyer.png"
+  },
+  {
+    "name": "Boonshadowstep",
+    "icon": "Source/Perks Survivor/iconPerks_BoonShadowStep.png"
+  },
+  {
+    "name": "Borrowedtime",
+    "icon": "Source/Perks Survivor/iconPerks_BorrowedTime.png"
+  },
+  {
+    "name": "Botanyknowledge",
+    "icon": "Source/Perks Survivor/iconPerks_BotanyKnowledge.png"
+  },
+  {
+    "name": "Breakdown",
+    "icon": "Source/Perks Survivor/iconPerks_Breakdown.png"
+  },
+  {
+    "name": "Breakout",
+    "icon": "Source/Perks Survivor/iconPerks_Breakout.png"
+  },
+  {
+    "name": "Buckleup",
+    "icon": "Source/Perks Survivor/iconPerks_BuckleUp.png"
+  },
+  {
+    "name": "Builttolast",
+    "icon": "Source/Perks Survivor/iconPerks_BuiltToLast.png"
+  },
+  {
+    "name": "Calmspirit",
+    "icon": "Source/Perks Survivor/iconPerks_CalmSpirit.png"
+  },
+  {
+    "name": "Camaraderie",
+    "icon": "Source/Perks Survivor/iconPerks_Camaraderie.png"
+  },
+  {
+    "name": "Chemicaltrap",
+    "icon": "Source/Perks Survivor/iconPerks_ChemicalTrap.png"
+  },
+  {
+    "name": "Clairvoyance",
+    "icon": "Source/Perks Survivor/iconPerks_Clairvoyance.png"
+  },
+  {
+    "name": "Counterforce",
+    "icon": "Source/Perks Survivor/iconPerks_Counterforce.png"
+  },
+  {
+    "name": "Cutloose",
+    "icon": "Source/Perks Survivor/iconPerks_CutLoose.png"
+  },
+  {
+    "name": "Dancewithme",
+    "icon": "Source/Perks Survivor/iconPerks_DanceWithMe.png"
+  },
+  {
+    "name": "Darksense",
+    "icon": "Source/Perks Survivor/iconPerks_DarkSense.png"
+  },
+  {
+    "name": "Darktheory",
+    "icon": "Source/Perks Survivor/iconPerks_DarkTheory.png"
+  },
+  {
+    "name": "Deadhard",
+    "icon": "Source/Perks Survivor/iconPerks_DeadHard.png"
+  },
+  {
+    "name": "Deception",
+    "icon": "Source/Perks Survivor/iconPerks_Deception.png"
+  },
+  {
+    "name": "Decisivestrike",
+    "icon": "Source/Perks Survivor/iconPerks_DecisiveStrike.png"
+  },
+  {
+    "name": "Dejavu",
+    "icon": "Source/Perks Survivor/iconPerks_DejaVu.png"
+  },
+  {
+    "name": "Deliverance",
+    "icon": "Source/Perks Survivor/iconPerks_Deliverance.png"
+  },
+  {
+    "name": "Desperatemeasures",
+    "icon": "Source/Perks Survivor/iconPerks_DesperateMeasures.png"
+  },
+  {
+    "name": "Detectiveshunch",
+    "icon": "Source/Perks Survivor/iconPerks_DetectivesHunch.png"
+  },
+  {
+    "name": "Distortion",
+    "icon": "Source/Perks Survivor/iconPerks_Distortion.png"
+  },
+  {
+    "name": "Diversion",
+    "icon": "Source/Perks Survivor/iconPerks_Diversion.png"
+  },
+  {
+    "name": "Dramaturgy",
+    "icon": "Source/Perks Survivor/iconPerks_Dramaturgy.png"
+  },
+  {
+    "name": "Empathicconnection",
+    "icon": "Source/Perks Survivor/iconPerks_EmpathicConnection.png"
+  },
+  {
+    "name": "Empathy",
+    "icon": "Source/Perks Survivor/iconPerks_Empathy.png"
+  },
+  {
+    "name": "Exultation",
+    "icon": "Source/Perks Survivor/iconPerks_Exultation.png"
+  },
+  {
+    "name": "Eyesofbelmont",
+    "icon": "Source/Perks Survivor/iconPerks_EyesOfBelmont.png"
+  },
+  {
+    "name": "Fasttrack",
+    "icon": "Source/Perks Survivor/iconPerks_FastTrack.png"
+  },
+  {
+    "name": "Finesse",
+    "icon": "Source/Perks Survivor/iconPerks_Finesse.png"
+  },
+  {
+    "name": "Fixated",
+    "icon": "Source/Perks Survivor/iconPerks_Fixated.png"
+  },
+  {
+    "name": "Flashbang",
+    "icon": "Source/Perks Survivor/iconPerks_Flashbang.png"
+  },
+  {
+    "name": "Flipflop",
+    "icon": "Source/Perks Survivor/iconPerks_FlipFlop.png"
+  },
+  {
+    "name": "Fogwise",
+    "icon": "Source/Perks Survivor/iconPerks_Fogwise.png"
+  },
+  {
+    "name": "Forthepeople",
+    "icon": "Source/Perks Survivor/iconPerks_ForThePeople.png"
+  },
+  {
+    "name": "Friendlycompetition",
+    "icon": "Source/Perks Survivor/iconPerks_FriendlyCompetition.png"
+  },
+  {
+    "name": "Hardened",
+    "icon": "Source/Perks Survivor/iconPerks_Hardened.png"
+  },
+  {
+    "name": "Headon",
+    "icon": "Source/Perks Survivor/iconPerks_HeadOn.png"
+  },
+  {
+    "name": "Hope",
+    "icon": "Source/Perks Survivor/iconPerks_Hope.png"
+  },
+  {
+    "name": "Hyperfocus",
+    "icon": "Source/Perks Survivor/iconPerks_Hyperfocus.png"
+  },
+  {
+    "name": "Innerfocus",
+    "icon": "Source/Perks Survivor/iconPerks_InnerFocus.png"
+  },
+  {
+    "name": "Innerstrength",
+    "icon": "Source/Perks Survivor/iconPerks_innerStrength.png"
+  },
+  {
+    "name": "Ironwill",
+    "icon": "Source/Perks Survivor/iconPerks_IronWill.png"
+  },
+  {
+    "name": "Kindred",
+    "icon": "Source/Perks Survivor/iconPerks_Kindred.png"
+  },
+  {
+    "name": "Leader",
+    "icon": "Source/Perks Survivor/iconPerks_Leader.png"
+  },
+  {
+    "name": "Leftbehind",
+    "icon": "Source/Perks Survivor/iconPerks_LeftBehind.png"
+  },
+  {
+    "name": "Lightfooted",
+    "icon": "Source/Perks Survivor/iconPerks_LightFooted.png"
+  },
+  {
+    "name": "Lightweight",
+    "icon": "Source/Perks Survivor/iconPerks_Lightweight.png"
+  },
+  {
+    "name": "Lithe",
+    "icon": "Source/Perks Survivor/iconPerks_Lithe.png"
+  },
+  {
+    "name": "Lowprofile",
+    "icon": "Source/Perks Survivor/iconPerks_LowProfile.png"
+  },
+  {
+    "name": "Luckybreak",
+    "icon": "Source/Perks Survivor/iconPerks_LuckyBreak.png"
+  },
+  {
+    "name": "Luckystar",
+    "icon": "Source/Perks Survivor/iconPerks_LuckyStar.png"
+  },
+  {
+    "name": "Madeforthis",
+    "icon": "Source/Perks Survivor/IconPerks_madeForThis.png"
+  },
+  {
+    "name": "Mettleofman",
+    "icon": "Source/Perks Survivor/iconPerks_MettleOfMan.png"
+  },
+  {
+    "name": "Mirroredillusion",
+    "icon": "Source/Perks Survivor/iconPerks_MirroredIllusion.png"
+  },
+  {
+    "name": "Momentofglory",
+    "icon": "Source/Perks Survivor/iconPerks_MomentOfGlory.png"
+  },
+  {
+    "name": "Nomither",
+    "icon": "Source/Perks Survivor/iconPerks_NoMither.png"
+  },
+  {
+    "name": "Nooneleftbehind",
+    "icon": "Source/Perks Survivor/iconPerks_NoOneLeftBehind.png"
+  },
+  {
+    "name": "Objectofobsession",
+    "icon": "Source/Perks Survivor/iconPerks_ObjectOfObsession.png"
+  },
+  {
+    "name": "Offtherecord",
+    "icon": "Source/Perks Survivor/iconPerks_OffTheRecord.png"
+  },
+  {
+    "name": "Openhanded",
+    "icon": "Source/Perks Survivor/iconPerks_OpenHanded.png"
+  },
+  {
+    "name": "Overzealous",
+    "icon": "Source/Perks Survivor/iconPerks_Overzealous.png"
+  },
+  {
+    "name": "Parentalguidance",
+    "icon": "Source/Perks Survivor/iconPerks_ParentalGuidance.png"
+  },
+  {
+    "name": "Pharmacy",
+    "icon": "Source/Perks Survivor/iconPerks_Pharmacy.png"
+  },
+  {
+    "name": "Plottwist",
+    "icon": "Source/Perks Survivor/iconPerks_PlotTwist.png"
+  },
+  {
+    "name": "Plunderersinstinct",
+    "icon": "Source/Perks Survivor/iconPerks_PlunderersInstinct.png"
+  },
+  {
+    "name": "Poised",
+    "icon": "Source/Perks Survivor/iconPerks_Poised.png"
+  },
+  {
+    "name": "Potentialenergy",
+    "icon": "Source/Perks Survivor/iconPerks_PotentialEnergy.png"
+  },
+  {
+    "name": "Powerstruggle",
+    "icon": "Source/Perks Survivor/iconPerks_PowerStruggle.png"
+  },
+  {
+    "name": "Premonition",
+    "icon": "Source/Perks Survivor/iconPerks_Premonition.png"
+  },
+  {
+    "name": "Provethyself",
+    "icon": "Source/Perks Survivor/iconPerks_ProveThyself.png"
+  },
+  {
+    "name": "Quickandquiet",
+    "icon": "Source/Perks Survivor/iconPerks_QuickAndQuiet.png"
+  },
+  {
+    "name": "Reactivehealing",
+    "icon": "Source/Perks Survivor/iconPerks_ReactiveHealing.png"
+  },
+  {
+    "name": "Reassurance",
+    "icon": "Source/Perks Survivor/iconPerks_Reassurance.png"
+  },
+  {
+    "name": "Redherring",
+    "icon": "Source/Perks Survivor/iconPerks_RedHerring.png"
+  },
+  {
+    "name": "Repressedalliance",
+    "icon": "Source/Perks Survivor/iconPerks_RepressedAlliance.png"
+  },
+  {
+    "name": "Residualmanifest",
+    "icon": "Source/Perks Survivor/iconPerks_ResidualManifest.png"
+  },
+  {
+    "name": "Resilience",
+    "icon": "Source/Perks Survivor/iconPerks_Resilience.png"
+  },
+  {
+    "name": "Resurgence",
+    "icon": "Source/Perks Survivor/iconPerks_Resurgence.png"
+  },
+  {
+    "name": "Rookiespirit",
+    "icon": "Source/Perks Survivor/iconPerks_RookieSpirit.png"
+  },
+  {
+    "name": "Saboteur",
+    "icon": "Source/Perks Survivor/iconPerks_Saboteur.png"
+  },
+  {
+    "name": "Scavenger",
+    "icon": "Source/Perks Survivor/IconPerks_scavenger.png"
+  },
+  {
+    "name": "Scenepartner",
+    "icon": "Source/Perks Survivor/iconPerks_ScenePartner.png"
+  },
+  {
+    "name": "Secondwind",
+    "icon": "Source/Perks Survivor/iconPerks_secondWind.png"
+  },
+  {
+    "name": "Self-Preservation",
+    "icon": "Source/Perks Survivor/iconPerks_Self-Preservation.png"
+  },
+  {
+    "name": "Selfcare",
+    "icon": "Source/Perks Survivor/iconPerks_SelfCare.png"
+  },
+  {
+    "name": "Slipperymeat",
+    "icon": "Source/Perks Survivor/iconPerks_SlipperyMeat.png"
+  },
+  {
+    "name": "Smallgame",
+    "icon": "Source/Perks Survivor/iconPerks_SmallGame.png"
+  },
+  {
+    "name": "Smashhit",
+    "icon": "Source/Perks Survivor/iconPerks_SmashHit.png"
+  },
+  {
+    "name": "Solesurvivor",
+    "icon": "Source/Perks Survivor/iconPerks_SoleSurvivor.png"
+  },
+  {
+    "name": "Solidarity",
+    "icon": "Source/Perks Survivor/iconPerks_Solidarity.png"
+  },
+  {
+    "name": "Soulguard",
+    "icon": "Source/Perks Survivor/iconPerks_SoulGuard.png"
+  },
+  {
+    "name": "Specialist",
+    "icon": "Source/Perks Survivor/iconPerks_Specialist.png"
+  },
+  {
+    "name": "Spiesfromtheshadows",
+    "icon": "Source/Perks Survivor/iconPerks_SpiesFromTheShadows.png"
+  },
+  {
+    "name": "Spinechill",
+    "icon": "Source/Perks Survivor/iconPerks_SpineChill.png"
+  },
+  {
+    "name": "Sprintburst",
+    "icon": "Source/Perks Survivor/iconPerks_SprintBurst.png"
+  },
+  {
+    "name": "Stakeout",
+    "icon": "Source/Perks Survivor/iconPerks_StakeOut.png"
+  },
+  {
+    "name": "Stillsight",
+    "icon": "Source/Perks Survivor/iconPerks_StillSight.png"
+  },
+  {
+    "name": "Streetwise",
+    "icon": "Source/Perks Survivor/iconPerks_Streetwise.png"
+  },
+  {
+    "name": "Teamworkcollectivestealth",
+    "icon": "Source/Perks Survivor/iconPerks_TeamworkCollectiveStealth.png"
+  },
+  {
+    "name": "Teamworkpoweroftwo",
+    "icon": "Source/Perks Survivor/iconPerks_TeamworkPowerOfTwo.png"
+  },
+  {
+    "name": "Technician",
+    "icon": "Source/Perks Survivor/iconPerks_Technician.png"
+  },
+  {
+    "name": "Tenacity",
+    "icon": "Source/Perks Survivor/iconPerks_Tenacity.png"
+  },
+  {
+    "name": "Thisisnothappening",
+    "icon": "Source/Perks Survivor/iconPerks_ThisIsNotHappening.png"
+  },
+  {
+    "name": "Troubleshooter",
+    "icon": "Source/Perks Survivor/IconPerks_troubleshooter.png"
+  },
+  {
+    "name": "Unbreakable",
+    "icon": "Source/Perks Survivor/iconPerks_Unbreakable.png"
+  },
+  {
+    "name": "Unnervingpresence",
+    "icon": "Source/Perks Survivor/iconPerks_UnnervingPresence.png"
+  },
+  {
+    "name": "Uptheante",
+    "icon": "Source/Perks Survivor/iconPerks_UpTheAnte.png"
+  },
+  {
+    "name": "Urbanevasion",
+    "icon": "Source/Perks Survivor/iconPerks_UrbanEvasion.png"
+  },
+  {
+    "name": "Vigil",
+    "icon": "Source/Perks Survivor/iconPerks_Vigil.png"
+  },
+  {
+    "name": "Visionary",
+    "icon": "Source/Perks Survivor/iconPerks_Visionary.png"
+  },
+  {
+    "name": "Vittoriosgambit",
+    "icon": "Source/Perks Survivor/iconPerks_VittoriosGambit.png"
+  },
+  {
+    "name": "Wakeup",
+    "icon": "Source/Perks Survivor/iconPerks_WakeUp.png"
+  },
+  {
+    "name": "Wellmakeit",
+    "icon": "Source/Perks Survivor/iconPerks_WellMakeIt.png"
+  },
+  {
+    "name": "Weregonnaliveforever",
+    "icon": "Source/Perks Survivor/iconPerks_WereGonnaLiveForever.png"
+  },
+  {
+    "name": "Windowsofopportunity",
+    "icon": "Source/Perks Survivor/iconPerks_WindowsOfOpportunity.png"
+  },
+  {
+    "name": "Wiretap",
+    "icon": "Source/Perks Survivor/iconPerks_Wiretap.png"
+  },
+  {
+    "name": "Iconsperks Championoflight",
+    "icon": "Source/Perks Survivor/iconsPerks_ChampionOfLight.png"
+  },
+  {
+    "name": "Iconsperks Deadline",
+    "icon": "Source/Perks Survivor/iconsPerks_Deadline.png"
+  },
+  {
+    "name": "Iconsperks Illumination",
+    "icon": "Source/Perks Survivor/iconsPerks_Illumination.png"
+  },
+  {
+    "name": "Iconsperks Invocationweavingspiders",
+    "icon": "Source/Perks Survivor/iconsPerks_InvocationWeavingSpiders.png"
+  },
+  {
+    "name": "Iconsperks Strengthinshadows",
+    "icon": "Source/Perks Survivor/iconsPerks_StrengthInShadows.png"
+  },
+  {
+    "name": "Iconsperks Wicked",
+    "icon": "Source/Perks Survivor/iconsPerks_Wicked.png"
+  },
+  {
+    "name": "Boonexponential",
+    "icon": "Source/Perks Survivor/T_iconPerks_BoonExponential.png"
+  },
+  {
+    "name": "Correctiveaction",
+    "icon": "Source/Perks Survivor/T_iconPerks_CorrectiveAction.png"
+  },
+  {
+    "name": "Overcome",
+    "icon": "Source/Perks Survivor/T_iconPerks_Overcome.png"
+  },
+  {
+    "name": "Apocalypticingenuity",
+    "icon": "Source/Perks Survivor/T_UI_iconPerks_ApocalypticIngenuity.png"
+  },
+  {
+    "name": "Comeandgetme",
+    "icon": "Source/Perks Survivor/T_UI_iconPerks_ComeAndGetMe.png"
+  },
+  {
+    "name": "Conviction",
+    "icon": "Source/Perks Survivor/T_UI_iconPerks_Conviction.png"
+  },
+  {
+    "name": "Laststand",
+    "icon": "Source/Perks Survivor/T_UI_iconPerks_LastStand.png"
+  },
+  {
+    "name": "Teamworkthrowdown",
+    "icon": "Source/Perks Survivor/T_UI_iconPerks_TeamworkThrowDown.png"
+  },
+  {
+    "name": "Teamworktoughenup",
+    "icon": "Source/Perks Survivor/T_UI_iconPerks_TeamworkToughenUp.png"
+  },
+  {
+    "name": "Cleanbreak",
+    "icon": "Source/Perks Survivor/T_UI_iconsPerks_CleanBreak.png"
+  },
+  {
+    "name": "Donoharm",
+    "icon": "Source/Perks Survivor/T_UI_iconsPerks_DoNoHarm.png"
+  },
+  {
+    "name": "Dutyofcare",
+    "icon": "Source/Perks Survivor/T_UI_iconsPerks_DutyOfCare.png"
+  },
+  {
+    "name": "Invocationtreacherouscrows",
+    "icon": "Source/Perks Survivor/T_UI_iconsPerks_InvocationTreacherousCrows.png"
+  },
+  {
+    "name": "Rapidresponse",
+    "icon": "Source/Perks Survivor/T_UI_iconsPerks_RapidResponse.png"
+  },
+  {
+    "name": "Shouldertheburden",
+    "icon": "Source/Perks Survivor/T_UI_iconsPerks_ShoulderTheBurden.png"
+  }
+]

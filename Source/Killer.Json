@@ -1,0 +1,522 @@
+[
+  {
+    "name": "Agitation",
+    "icon": "Source/Perks Killer/iconPerks_Agitation.png"
+  },
+  {
+    "name": "Alieninstinct",
+    "icon": "Source/Perks Killer/iconPerks_AlienInstinct.png"
+  },
+  {
+    "name": "Anursescalling",
+    "icon": "Source/Perks Killer/iconPerks_ANursesCalling.png"
+  },
+  {
+    "name": "Awakenedawarenesss",
+    "icon": "Source/Perks Killer/iconPerks_AwakenedAwarenesss.png"
+  },
+  {
+    "name": "Bamboozle",
+    "icon": "Source/Perks Killer/iconPerks_Bamboozle.png"
+  },
+  {
+    "name": "Batteriesincluded",
+    "icon": "Source/Perks Killer/iconPerks_batteriesIncluded.png"
+  },
+  {
+    "name": "Bbqandchili",
+    "icon": "Source/Perks Killer/iconPerks_BBQAndChili.png"
+  },
+  {
+    "name": "Beastofprey",
+    "icon": "Source/Perks Killer/iconPerks_BeastOfPrey.png"
+  },
+  {
+    "name": "Bittermurmur",
+    "icon": "Source/Perks Killer/iconPerks_BitterMurmur.png"
+  },
+  {
+    "name": "Bloodecho",
+    "icon": "Source/Perks Killer/iconPerks_BloodEcho.png"
+  },
+  {
+    "name": "Bloodhound",
+    "icon": "Source/Perks Killer/iconPerks_Bloodhound.png"
+  },
+  {
+    "name": "Bloodwarden",
+    "icon": "Source/Perks Killer/iconPerks_BloodWarden.png"
+  },
+  {
+    "name": "Brutalstrength",
+    "icon": "Source/Perks Killer/iconPerks_BrutalStrength.png"
+  },
+  {
+    "name": "Callofbrine",
+    "icon": "Source/Perks Killer/iconPerks_CallOfBrine.png"
+  },
+  {
+    "name": "Corruptintervention",
+    "icon": "Source/Perks Killer/iconPerks_CorruptIntervention.png"
+  },
+  {
+    "name": "Coulrophobia",
+    "icon": "Source/Perks Killer/iconPerks_Coulrophobia.png"
+  },
+  {
+    "name": "Coupdegrace",
+    "icon": "Source/Perks Killer/iconPerks_CoupDeGrace.png"
+  },
+  {
+    "name": "Cruelconfinement",
+    "icon": "Source/Perks Killer/iconPerks_CruelConfinement.png"
+  },
+  {
+    "name": "Darkarrogance",
+    "icon": "Source/Perks Killer/iconPerks_DarkArrogance.png"
+  },
+  {
+    "name": "Darkdevotion",
+    "icon": "Source/Perks Killer/iconPerks_DarkDevotion.png"
+  },
+  {
+    "name": "Darknessrevelated",
+    "icon": "Source/Perks Killer/iconPerks_DarknessRevelated.png"
+  },
+  {
+    "name": "Deadlock",
+    "icon": "Source/Perks Killer/iconPerks_Deadlock.png"
+  },
+  {
+    "name": "Deadmanswitch",
+    "icon": "Source/Perks Killer/iconPerks_DeadManSwitch.png"
+  },
+  {
+    "name": "Deathbound",
+    "icon": "Source/Perks Killer/iconPerks_Deathbound.png"
+  },
+  {
+    "name": "Deerstalker",
+    "icon": "Source/Perks Killer/iconPerks_Deerstalker.png"
+  },
+  {
+    "name": "Devourhope",
+    "icon": "Source/Perks Killer/iconPerks_DevourHope.png"
+  },
+  {
+    "name": "Discordance",
+    "icon": "Source/Perks Killer/iconPerks_Discordance.png"
+  },
+  {
+    "name": "Dissolution",
+    "icon": "Source/Perks Killer/iconPerks_Dissolution.png"
+  },
+  {
+    "name": "Distressing",
+    "icon": "Source/Perks Killer/iconPerks_Distressing.png"
+  },
+  {
+    "name": "Dominance",
+    "icon": "Source/Perks Killer/iconPerks_Dominance.png"
+  },
+  {
+    "name": "Dragonsgrip",
+    "icon": "Source/Perks Killer/iconPerks_DragonsGrip.png"
+  },
+  {
+    "name": "Dyinglight",
+    "icon": "Source/Perks Killer/iconPerks_DyingLight.png"
+  },
+  {
+    "name": "Enduring",
+    "icon": "Source/Perks Killer/iconPerks_Enduring.png"
+  },
+  {
+    "name": "Eruption",
+    "icon": "Source/Perks Killer/iconPerks_Eruption.png"
+  },
+  {
+    "name": "Fireup",
+    "icon": "Source/Perks Killer/iconPerks_FireUp.png"
+  },
+  {
+    "name": "Floodofrage",
+    "icon": "Source/Perks Killer/iconPerks_FloodOfRage.png"
+  },
+  {
+    "name": "Forcedhesitation",
+    "icon": "Source/Perks Killer/IconPerks_ForcedHesitation.png"
+  },
+  {
+    "name": "Forcedpenance",
+    "icon": "Source/Perks Killer/iconPerks_ForcedPenance.png"
+  },
+  {
+    "name": "Franklinsloss",
+    "icon": "Source/Perks Killer/iconPerks_FranklinsLoss.png"
+  },
+  {
+    "name": "Friendstilltheend",
+    "icon": "Source/Perks Killer/iconPerks_friendsTillTheEnd.png"
+  },
+  {
+    "name": "Furtivechase",
+    "icon": "Source/Perks Killer/iconPerks_FurtiveChase.png"
+  },
+  {
+    "name": "Gameafoot",
+    "icon": "Source/Perks Killer/iconPerks_GameAfoot.png"
+  },
+  {
+    "name": "Gearhead",
+    "icon": "Source/Perks Killer/iconPerks_GearHead.png"
+  },
+  {
+    "name": "Generatorovercharge",
+    "icon": "Source/Perks Killer/iconPerks_GeneratorOvercharge.png"
+  },
+  {
+    "name": "Geneticlimits",
+    "icon": "Source/Perks Killer/IconPerks_GeneticLimits.png"
+  },
+  {
+    "name": "Hangmanstrick",
+    "icon": "Source/Perks Killer/iconPerks_HangmansTrick.png"
+  },
+  {
+    "name": "Hatred",
+    "icon": "Source/Perks Killer/iconPerks_Hatred.png"
+  },
+  {
+    "name": "Hauntedground",
+    "icon": "Source/Perks Killer/iconPerks_HauntedGround.png"
+  },
+  {
+    "name": "Hexbloodfavor",
+    "icon": "Source/Perks Killer/iconPerks_HexBloodFavor.png"
+  },
+  {
+    "name": "Hexcrowdcontrol",
+    "icon": "Source/Perks Killer/iconPerks_HexCrowdControl.png"
+  },
+  {
+    "name": "Hexfacethedarkness",
+    "icon": "Source/Perks Killer/iconPerks_HexFaceTheDarkness.png"
+  },
+  {
+    "name": "Hexplaything",
+    "icon": "Source/Perks Killer/iconPerks_HexPlaything.png"
+  },
+  {
+    "name": "Hexretribution",
+    "icon": "Source/Perks Killer/iconPerks_HexRetribution.png"
+  },
+  {
+    "name": "Hexundying",
+    "icon": "Source/Perks Killer/iconPerks_HexUndying.png"
+  },
+  {
+    "name": "Hexwretchedfate",
+    "icon": "Source/Perks Killer/iconPerks_HexWretchedFate.png"
+  },
+  {
+    "name": "Hoarder",
+    "icon": "Source/Perks Killer/iconPerks_Hoarder.png"
+  },
+  {
+    "name": "Hubris",
+    "icon": "Source/Perks Killer/iconPerks_Hubris.png"
+  },
+  {
+    "name": "Humangreed",
+    "icon": "Source/Perks Killer/iconPerks_HumanGreed.png"
+  },
+  {
+    "name": "Huntresslullaby",
+    "icon": "Source/Perks Killer/iconPerks_HuntressLullaby.png"
+  },
+  {
+    "name": "Hysteria",
+    "icon": "Source/Perks Killer/iconPerks_Hysteria.png"
+  },
+  {
+    "name": "Imallears",
+    "icon": "Source/Perks Killer/iconPerks_ImAllEars.png"
+  },
+  {
+    "name": "Infectiousfright",
+    "icon": "Source/Perks Killer/iconPerks_InfectiousFright.png"
+  },
+  {
+    "name": "Insidious",
+    "icon": "Source/Perks Killer/iconPerks_Insidious.png"
+  },
+  {
+    "name": "Irongrasp",
+    "icon": "Source/Perks Killer/iconPerks_IronGrasp.png"
+  },
+  {
+    "name": "Ironmaiden",
+    "icon": "Source/Perks Killer/iconPerks_IronMaiden.png"
+  },
+  {
+    "name": "Knockout",
+    "icon": "Source/Perks Killer/iconPerks_KnockOut.png"
+  },
+  {
+    "name": "Languidtouch",
+    "icon": "Source/Perks Killer/iconPerks_LanguidTouch.png"
+  },
+  {
+    "name": "Lethalpursuer",
+    "icon": "Source/Perks Killer/iconPerks_LethalPursuer.png"
+  },
+  {
+    "name": "Leverage",
+    "icon": "Source/Perks Killer/iconPerks_Leverage.png"
+  },
+  {
+    "name": "Lightborn",
+    "icon": "Source/Perks Killer/iconPerks_Lightborn.png"
+  },
+  {
+    "name": "Madgrit",
+    "icon": "Source/Perks Killer/iconPerks_MadGrit.png"
+  },
+  {
+    "name": "Makeyourchoice",
+    "icon": "Source/Perks Killer/iconPerks_MakeYourChoice.png"
+  },
+  {
+    "name": "Mercilessstorm",
+    "icon": "Source/Perks Killer/iconPerks_MercilessStorm.png"
+  },
+  {
+    "name": "Mindbreaker",
+    "icon": "Source/Perks Killer/iconPerks_MindBreaker.png"
+  },
+  {
+    "name": "Monitorandabuse",
+    "icon": "Source/Perks Killer/iconPerks_MonitorAndAbuse.png"
+  },
+  {
+    "name": "Monstrousshrine",
+    "icon": "Source/Perks Killer/iconPerks_MonstrousShrine.png"
+  },
+  {
+    "name": "Nemesis",
+    "icon": "Source/Perks Killer/iconPerks_Nemesis.png"
+  },
+  {
+    "name": "Nooneescapesdeath",
+    "icon": "Source/Perks Killer/iconPerks_NoOneEscapesDeath.png"
+  },
+  {
+    "name": "Nowayout",
+    "icon": "Source/Perks Killer/iconPerks_NoWayOut.png"
+  },
+  {
+    "name": "Nowheretohide",
+    "icon": "Source/Perks Killer/iconPerks_NowhereToHide.png"
+  },
+  {
+    "name": "Oppression",
+    "icon": "Source/Perks Killer/iconPerks_Oppression.png"
+  },
+  {
+    "name": "Overwhelmingpresence",
+    "icon": "Source/Perks Killer/iconPerks_OverwhelmingPresence.png"
+  },
+  {
+    "name": "Playwithyourfood",
+    "icon": "Source/Perks Killer/iconPerks_PlayWithYourFood.png"
+  },
+  {
+    "name": "Popgoestheweasel",
+    "icon": "Source/Perks Killer/iconPerks_PopGoesTheWeasel.png"
+  },
+  {
+    "name": "Predator",
+    "icon": "Source/Perks Killer/iconPerks_Predator.png"
+  },
+  {
+    "name": "Rapidbrutality",
+    "icon": "Source/Perks Killer/iconPerks_RapidBrutality.png"
+  },
+  {
+    "name": "Rememberme",
+    "icon": "Source/Perks Killer/iconPerks_RememberMe.png"
+  },
+  {
+    "name": "Ruin",
+    "icon": "Source/Perks Killer/iconPerks_Ruin.png"
+  },
+  {
+    "name": "Savethebestforlast",
+    "icon": "Source/Perks Killer/iconPerks_SaveTheBestForLast.png"
+  },
+  {
+    "name": "Scourgehookgiftofpain",
+    "icon": "Source/Perks Killer/iconPerks_ScourgeHookGiftOfPain.png"
+  },
+  {
+    "name": "Selfaware",
+    "icon": "Source/Perks Killer/IconPerks_SelfAware.png"
+  },
+  {
+    "name": "Septictouch",
+    "icon": "Source/Perks Killer/iconPerks_SepticTouch.png"
+  },
+  {
+    "name": "Shadowborn",
+    "icon": "Source/Perks Killer/iconPerks_Shadowborn.png"
+  },
+  {
+    "name": "Sloppybutcher",
+    "icon": "Source/Perks Killer/iconPerks_SloppyButcher.png"
+  },
+  {
+    "name": "Spiritfury",
+    "icon": "Source/Perks Killer/iconPerks_SpiritFury.png"
+  },
+  {
+    "name": "Starstruck",
+    "icon": "Source/Perks Killer/iconPerks_Starstruck.png"
+  },
+  {
+    "name": "Stridor",
+    "icon": "Source/Perks Killer/iconPerks_Stridor.png"
+  },
+  {
+    "name": "Superioranatomy",
+    "icon": "Source/Perks Killer/iconPerks_SuperiorAnatomy.png"
+  },
+  {
+    "name": "Surge",
+    "icon": "Source/Perks Killer/iconPerks_Surge.png"
+  },
+  {
+    "name": "Surveillance",
+    "icon": "Source/Perks Killer/iconPerks_Surveillance.png"
+  },
+  {
+    "name": "Terminus",
+    "icon": "Source/Perks Killer/iconPerks_Terminus.png"
+  },
+  {
+    "name": "Territorialimperative",
+    "icon": "Source/Perks Killer/iconPerks_TerritorialImperative.png"
+  },
+  {
+    "name": "Thatanophobia",
+    "icon": "Source/Perks Killer/iconPerks_Thatanophobia.png"
+  },
+  {
+    "name": "Thethirdseal",
+    "icon": "Source/Perks Killer/iconPerks_TheThirdSeal.png"
+  },
+  {
+    "name": "Thrillingtremors",
+    "icon": "Source/Perks Killer/iconPerks_ThrillingTremors.png"
+  },
+  {
+    "name": "Thrillofthehunt",
+    "icon": "Source/Perks Killer/iconPerks_ThrillOfTheHunt.png"
+  },
+  {
+    "name": "Thwack",
+    "icon": "Source/Perks Killer/iconPerks_Thwack.png"
+  },
+  {
+    "name": "Tinkerer",
+    "icon": "Source/Perks Killer/iconPerks_Tinkerer.png"
+  },
+  {
+    "name": "Trailoftorment",
+    "icon": "Source/Perks Killer/iconPerks_TrailOfTorment.png"
+  },
+  {
+    "name": "Twocanplay",
+    "icon": "Source/Perks Killer/iconPerks_twoCanPlay.png"
+  },
+  {
+    "name": "Ultimateweapon",
+    "icon": "Source/Perks Killer/iconPerks_UltimateWeapon.png"
+  },
+  {
+    "name": "Unbound",
+    "icon": "Source/Perks Killer/iconPerks_Unbound.png"
+  },
+  {
+    "name": "Undone",
+    "icon": "Source/Perks Killer/iconPerks_Undone.png"
+  },
+  {
+    "name": "Unforeseen",
+    "icon": "Source/Perks Killer/iconPerks_Unforeseen.png"
+  },
+  {
+    "name": "Unrelenting",
+    "icon": "Source/Perks Killer/iconPerks_Unrelenting.png"
+  },
+  {
+    "name": "Weaveattunement",
+    "icon": "Source/Perks Killer/iconPerks_WeaveAttunement.png"
+  },
+  {
+    "name": "Whispers",
+    "icon": "Source/Perks Killer/iconPerks_Whispers.png"
+  },
+  {
+    "name": "Zanshintactics",
+    "icon": "Source/Perks Killer/iconPerks_ZanshinTactics.png"
+  },
+  {
+    "name": "Grimembrace",
+    "icon": "Source/Perks Killer/T_iconPerks_GrimEmbrace.png"
+  },
+  {
+    "name": "Hexpentimento",
+    "icon": "Source/Perks Killer/T_iconPerks_HexPentimento.png"
+  },
+  {
+    "name": "Painresonance",
+    "icon": "Source/Perks Killer/T_iconPerks_PainResonance.png"
+  },
+  {
+    "name": "Allshakingthunder",
+    "icon": "Source/Perks Killer/T_UI_iconPerks_AllShakingThunder.png"
+  },
+  {
+    "name": "Foreverentwined",
+    "icon": "Source/Perks Killer/T_UI_iconPerks_ForeverEntwined.png"
+  },
+  {
+    "name": "Haywire",
+    "icon": "Source/Perks Killer/T_UI_iconPerks_Haywire.png"
+  },
+  {
+    "name": "Helpwanted",
+    "icon": "Source/Perks Killer/T_UI_iconPerks_HelpWanted.png"
+  },
+  {
+    "name": "Nonearefree",
+    "icon": "Source/Perks Killer/T_UI_iconPerks_NoneAreFree.png"
+  },
+  {
+    "name": "Noquarter",
+    "icon": "Source/Perks Killer/T_UI_iconPerks_NoQuarter.png"
+  },
+  {
+    "name": "Nothingbutmisery",
+    "icon": "Source/Perks Killer/T_UI_iconPerks_NothingButMisery.png"
+  },
+  {
+    "name": "Phantomfear",
+    "icon": "Source/Perks Killer/T_UI_iconPerks_PhantomFear.png"
+  },
+  {
+    "name": "Scourgehookjaggedcompass",
+    "icon": "Source/Perks Killer/T_UI_iconPerks_ScourgeHookJaggedCompass.png"
+  }
+]
