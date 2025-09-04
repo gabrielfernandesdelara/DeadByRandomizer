@@ -10,7 +10,7 @@ const perk4_img = document.querySelector("#perk4-img");
 
 async function getRandomPerks(role) {
   const jsonPath =
-    role === "killer" ? "Source/killer.json" : "Source/survivor.json";
+    role === "Killer" ? "Source/Killer.json" : "Source/Survivor.json";
   const response = await fetch(jsonPath);
   const perks = await response.json();
   return perks;
