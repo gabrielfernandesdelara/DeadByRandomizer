@@ -14,7 +14,7 @@ async function getRandomPerks(role) {
   const response = await fetch(jsonPath);
   const perks = await response.json();
   return perks;
-}a
+}
 
 btn_randomizer.onclick = async function () {
   const role = document.getElementById("role-select").value;
