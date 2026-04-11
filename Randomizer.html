@@ -8,11 +8,28 @@
       href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Quicksand:wght@300..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="Style/styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css" />
     <link rel="shortcut icon" type="Image/png" sizes="126x126"
-    href="Source/Icon.png"
+    href="assets/images/icons/Icon.png">
   </head>
   <body>
+    <nav>
+      <div class="logo">
+        <img src="assets/images/icons/Icon.png" alt="logo">
+        <span>Dead By Randomizer</span>
+      </div>
+      <div class="nav-links">
+        <a href="index.html">Inicio</a>
+        <a href="Randomizer.html">Randomizer</a>
+      </div>
+      <div class="nav-auth">
+        <a href="login.html">Login</a>
+        <a href="register.html">Register</a>
+      </div>
+    </nav>
     <div class="title">
       <h1>Randomizer</h1>
     </div>
@@ -28,32 +45,22 @@
     </div>
     <div class="perks-container">
       <div id="perk1">
-        <img id="perk1-img" src="Source/PerkLoading.png" alt="Loading1" />
+        <img id="perk1-img" src="assets/images/icons/PerkLoading.png" alt="Loading1" />
         <span id="perk1-name" style="visibility: hidden">.</span>
       </div>
       <div id="perk2">
-        <img id="perk2-img" src="Source/PerkLoading.png" alt="Loading2" />
+        <img id="perk2-img" src="assets/images/icons/PerkLoading.png" alt="Loading2" />
         <span id="perk2-name" style="visibility: hidden">.</span>
       </div>
       <div id="perk3">
-        <img id="perk3-img" src="Source/PerkLoading.png" alt="Loading3" />
+        <img id="perk3-img" src="assets/images/icons/PerkLoading.png" alt="Loading3" />
         <span id="perk3-name" style="visibility: hidden">.</span>
       </div>
       <div id="perk4">
-        <img id="perk4-img" src="Source/PerkLoading.png" alt="Loading4" />
+        <img id="perk4-img" src="assets/images/icons/PerkLoading.png" alt="Loading4" />
         <span id="perk4-name" style="visibility: hidden">.</span>
       </div>
     </div>
-    <div class="container">
-      <div class="side-bar">
-        <div class="about-container">
-          <a href="index.html"
-            >About
-            <img src="Source/Inicio.png" alt="Inicio" />
-          </a>
-        </div>
-      </div>
-    </div>
-    <script src="Script/script.js"></script>
+    <script src="scripts/script.js"></script>
   </body>
 </html>
