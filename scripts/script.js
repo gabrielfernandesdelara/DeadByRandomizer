@@ -1,4 +1,6 @@
 const btn_randomizer = document.getElementById("randomize-button");
+const hamburger = document.getElementById("hamburger");
+const navMenu = document.getElementById("nav-menu");
 const perk1 = document.getElementById("perk1-name");
 const perk2 = document.getElementById("perk2-name");
 const perk3 = document.getElementById("perk3-name");
@@ -7,6 +9,13 @@ const perk1_img = document.querySelector("#perk1-img");
 const perk2_img = document.querySelector("#perk2-img");
 const perk3_img = document.querySelector("#perk3-img");
 const perk4_img = document.querySelector("#perk4-img");
+
+if (hamburger && navMenu) {
+  hamburger.addEventListener("click", () => {
+    navMenu.classList.toggle("aberto");
+    const aberto = navMenu.classList.contains("aberto");
+  });
+}
 
 async function getRandomPerks(role) {
   const jsonPath =

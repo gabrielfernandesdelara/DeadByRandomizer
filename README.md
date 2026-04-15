@@ -20,6 +20,7 @@ Acesse online: [dead-by-randomizer.vercel.app](https://dead-by-randomizer.vercel
 ## Funcionalidades até o momento
 
 - Randomizer de perks para Survivor e Killer
+- Responsividade
 
 ---
 
@@ -66,7 +67,6 @@ DeadByRandomizer/
 
 ## Roadmap
 
-- [ ] Responsividade mobile
 - [ ] API de perks atualizada automaticamente
 - [ ] Integração com Supabase (banco de dados)
 - [ ] Sistema de autenticação (login/cadastro)
