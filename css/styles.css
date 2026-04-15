@@ -113,10 +113,6 @@ body {
   border-radius: 20px;
 }
 
-.main-container:hover {
-  background-color: #ffffff;
-}
-
 .filter-container {
   background-color: #ffffff9d;
   display: flex;
