@@ -25,15 +25,16 @@ async function getRandomPerks(role) {
   return perks;
 }
 
-btn_randomizer.onclick = async function () {
-  const role = document.getElementById("role-select").value;
-  const allPerks = await getRandomPerks(role);
-  const perks = [];
-  while (perks.length < 4) {
-    const randomIndex = Math.floor(Math.random() * allPerks.length);
-    const perk = allPerks[randomIndex];
-    if (!perks.includes(perk)) {
-      perks.push(perk);
+if (btn_randomizer) {
+  btn_randomizer.onclick = async function () {
+    const role = document.getElementById("role-select").value;
+    const allPerks = await getRandomPerks(role);
+    const perks = [];
+    while (perks.length < 4) {
+      const randomIndex = Math.floor(Math.random() * allPerks.length);
+      const perk = allPerks[randomIndex];
+      if (!perks.includes(perk)) {
+        perks.push(perk);
     }
   }
   perk1_img.src = perks[0].icon;
@@ -49,3 +50,4 @@ btn_randomizer.onclick = async function () {
   perk4.style.visibility = "visible";
   perk4.textContent = perks[3].name;
 };
+}
