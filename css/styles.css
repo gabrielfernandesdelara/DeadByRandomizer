@@ -1,7 +1,7 @@
 body {
   min-height: 100vh;
   box-sizing: border-box;
-  background-image: radial-gradient(circle, #00000099 50%, #28152e4f 100%),
+  background-image: radial-gradient(circle, rgba(10, 6, 3, 0.65) 50%, rgba(10, 6, 3, 0.2) 100%),
     url(../assets/images/background/Fundo.webp);
   background-size: cover;
   background-position: center;
@@ -27,7 +27,7 @@ body {
 .title h1 {
   text-align: center;
   font-size: 2.5rem;
-  color: #fff;
+  color: #C8922A;
   margin: 0;
 }
 
@@ -36,7 +36,7 @@ body {
   height: 60px;
   display: flex;
   padding: 20px;
-  background-color: #2b333f;
+  background-color: #8B3A15;
   border-radius: 8px;
   margin-bottom: 24px;
   overflow: hidden;
@@ -59,7 +59,7 @@ body {
 }
 
 .about-container:hover {
-  background-color: #414d5f;
+  background-color: #A04520;
   cursor: pointer;
   width: 160px;
   box-shadow: #332622 0px 4px 8px;
@@ -70,7 +70,7 @@ body {
   height: 60px;
   display: flex;
   padding: 20px;
-  background-color: #2b333f;
+  background-color: #8B3A15;
   border-radius: 8px;
   margin-bottom: 24px;
   overflow: hidden;
@@ -94,7 +94,7 @@ body {
 }
 
 .randomizer-container:hover {
-  background-color: #414d5f;
+  background-color: #A04520;
   cursor: pointer;
   width: 280px;
   box-shadow: #332622 0px 4px 8px;
@@ -141,7 +141,7 @@ body {
   margin-top: 10px;
   padding: 10px 20px;
   font-size: 1rem;
-  background-color: #2b333f;
+  background-color: #8B3A15;
   color: white;
   border: none;
   border-radius: 5px;
@@ -165,7 +165,7 @@ body {
 .button-randomizer-container button {
   padding: 15px 30px;
   font-size: 1.5rem;
-  background-color: #2b333f;
+  background-color: #8B3A15;
   color: white;
   border: none;
   border-radius: 5px;
@@ -174,13 +174,13 @@ body {
 }
 
 .button-randomizer-container button:hover {
-  background-color: #414d5f;
+  background-color: #A04520;
   transform: scale(1.05);
   box-shadow: #332622 0px 4px 8px;
 }
 
 .perks-container {
-  background-color: #2b333f70;
+  background-color: #0D0D0D70;
   padding: 20px;
   border-radius: 20px;
   display: flex;
@@ -208,7 +208,7 @@ body {
 }
 
 nav {
-  background-color: #3B200B;
+  background-color: #0D0D0D;
   padding: 26px 32px;
   display: flex;
   align-items: center;
@@ -219,7 +219,7 @@ nav {
 }
 
 nav a {
-  color: #D9BA79;
+  color: #C8922A;
   text-decoration: none;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1.2rem;
@@ -242,7 +242,7 @@ nav a:hover {
   font-family: Roboto, sans-serif;
   font-size: 1.5rem;
   font-weight: bold;
-  color: #D9BA79;
+  color: #C8922A;
 }
 
 .logo img {
@@ -289,13 +289,13 @@ nav a:hover {
   left: 0;
   width: 30px;
   height: 3px;
-  background-color: #D9BA79;
+  background-color: #C8922A;
   border-radius: 2px;
 }
 
 .hamburger::before {
   top: 2px;
-  box-shadow: 0 8px 0 #D9BA79;
+  box-shadow: 0 8px 0 #C8922A;
 }
 
 .hamburger::after {
@@ -332,7 +332,7 @@ nav a:hover {
     right: 0px;
     width: max-content;
     min-width: 200px;
-    background-color: #3B200B;
+    background-color: #0D0D0D;
     border: 1px solid #17100A;
     border-radius: 0px 8px;
     padding: 12px;
