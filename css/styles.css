@@ -114,27 +114,72 @@ body {
 }
 
 .filter-container {
-  background-color: #ffffff9d;
+  background-color: #0d0d0d9d;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: row;
   padding: 20px;
   border-radius: 20px;
-  width: 300px;
-  height: 20px;
-  gap: 12px;
+  width: 400px;
+  height: 40px;
+  gap: 20px;
+}
+
+.filter-survivor-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.filter-killer-container {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  gap: 10px;
+}
+
+.filter-survivor-container img{
+  width: 68px;
+  height: 68px;
+}
+
+.filter-killer-container img{
+  width: 68px;
+  height: 68px;
+}
+
+.filter-container label{
+  background-color: #8B3A15;
+  padding: 6px 20px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.filter-container input[type="radio"] {
+  display: none;
+}
+
+.filter-container input[value="survivor"]:checked + label {
+  background-color: #2f4f3a60;
+  border: 2px solid;
+  border-color: #2F4F3A;
+}
+
+.filter-container input[value="killer"]:checked + label {
+  background-color: #8b1a1a50 ;
+  border: 2px solid;
+  border-color: #8B1A1A;
+}
+
+.filter-container input[type="radio"]:checked + label {
+  transition: all 0.3s;
 }
 
 .filter-container label {
-  font-size: 1.5rem;
-  margin-bottom: 10px;
-  margin-top: 10px;
-}
-
-.filter-container option {
+  color: #ffffff;
   font-size: 1.2rem;
-  padding: 5px;
+  font-weight: bold;
 }
 
 .filter-container button {
@@ -142,7 +187,7 @@ body {
   padding: 10px 20px;
   font-size: 1rem;
   background-color: #8B3A15;
-  color: white;
+  color: #ffffff;
   border: none;
   border-radius: 5px;
   cursor: pointer;

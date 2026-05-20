@@ -27,7 +27,12 @@ async function getRandomPerks(role) {
 
 if (btn_randomizer) {
   btn_randomizer.onclick = async function () {
-    const role = document.getElementById("role-select").value;
+    const radioSelect = document.querySelector('input[name="role"]:checked');
+      if (!radioSelect) {
+        alert("Por favor, selecione uma das duas opções (Killer or Survivor) antes de randomizar.");
+        return;
+      }
+    const role = radioSelect.value;
     const allPerks = await getRandomPerks(role);
     const perks = [];
     while (perks.length < 4) {
@@ -35,19 +40,20 @@ if (btn_randomizer) {
       const perk = allPerks[randomIndex];
       if (!perks.includes(perk)) {
         perks.push(perk);
+      }
     }
-  }
-  perk1_img.src = perks[0].icon;
-  perk1.style.visibility = "visible";
-  perk1.textContent = perks[0].name;
-  perk2_img.src = perks[1].icon;
-  perk2.style.visibility = "visible";
-  perk2.textContent = perks[1].name;
-  perk3_img.src = perks[2].icon;
-  perk3.style.visibility = "visible";
-  perk3.textContent = perks[2].name;
-  perk4_img.src = perks[3].icon;
-  perk4.style.visibility = "visible";
-  perk4.textContent = perks[3].name;
-};
+
+    perk1_img.src = perks[0].icon;
+    perk1.style.visibility = "visible";
+    perk1.textContent = perks[0].name;
+    perk2_img.src = perks[1].icon;
+    perk2.style.visibility = "visible";
+    perk2.textContent = perks[1].name;
+    perk3_img.src = perks[2].icon;
+    perk3.style.visibility = "visible";
+    perk3.textContent = perks[2].name;
+    perk4_img.src = perks[3].icon;
+    perk4.style.visibility = "visible";
+    perk4.textContent = perks[3].name;
+  };
 }
