@@ -25,13 +25,20 @@ async function getRandomPerks(role) {
   return perks;
 }
 
+async function getRandomPower() {
+    const jsonPath = "assets/data/powers.json";
+    const response = await fetch(jsonPath);
+    const powers = await response.json();
+    return powers;
+}
+
 if (btn_randomizer) {
   btn_randomizer.onclick = async function () {
     const radioSelect = document.querySelector('input[name="role"]:checked');
       if (!radioSelect) {
         alert("Por favor, selecione uma das duas opções (Killer or Survivor) antes de randomizar.");
         return;
-      }
+      } 
     const role = radioSelect.value;
     const allPerks = await getRandomPerks(role);
     const perks = [];
@@ -55,5 +62,17 @@ if (btn_randomizer) {
     perk4_img.src = perks[3].icon;
     perk4.style.visibility = "visible";
     perk4.textContent = perks[3].name;
+
+    if (role === "killer") {
+      const allPowers = await getRandomPower();
+      const randomIndex = Math.floor(Math.random() * allPowers.length);
+      const power = allPowers[randomIndex];
+      itempowerimg.src = power.image;
+      itempowername.textContent = power.power;
+      itempowertooltip.innerHTML = power.description;
+      itempowercontainer.style.visibility = "visible";
+    } else {
+      itempowercontainer.style.visibility = "hidden";
+    }
   };
 }
