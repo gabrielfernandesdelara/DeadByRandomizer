@@ -9,6 +9,8 @@ const perk1_img = document.querySelector("#perk1-img");
 const perk2_img = document.querySelector("#perk2-img");
 const perk3_img = document.querySelector("#perk3-img");
 const perk4_img = document.querySelector("#perk4-img");
+const itempowercontainer = document.getElementById('itempowercontainer');
+
 
 if (hamburger && navMenu) {
   hamburger.addEventListener("click", () => {
@@ -19,17 +21,18 @@ if (hamburger && navMenu) {
 
 async function getRandomPerks(role) {
   const jsonPath =
-    role === "killer" ? "assets/data/killer.json" : "assets/data/survivor.json";
+    role === "killer" ? "assets/data/perks/killer.json" : "assets/data/perks/survivor.json";
   const response = await fetch(jsonPath);
   const perks = await response.json();
   return perks;
 }
 
-async function getRandomPower() {
-    const jsonPath = "assets/data/powers.json";
+async function getRandomPowerItem(role) {
+    const jsonPath = 
+    role === "killer" ? "assets/data/itemPower/powers.json" : "assets/data/itemPower/itens.json";
     const response = await fetch(jsonPath);
-    const powers = await response.json();
-    return powers;
+    const itempowers = await response.json();
+    return itempowers;
 }
 
 if (btn_randomizer) {
@@ -63,16 +66,12 @@ if (btn_randomizer) {
     perk4.style.visibility = "visible";
     perk4.textContent = perks[3].name;
 
-    if (role === "killer") {
-      const allPowers = await getRandomPower();
-      const randomIndex = Math.floor(Math.random() * allPowers.length);
-      const power = allPowers[randomIndex];
-      itempowerimg.src = power.image;
-      itempowername.textContent = power.power;
-      itempowertooltip.innerHTML = power.description;
-      itempowercontainer.style.visibility = "visible";
-    } else {
-      itempowercontainer.style.visibility = "hidden";
-    }
+    const allItemOrPowers = await getRandomPowerItem(role);
+    const chosen = allItemOrPowers[Math.floor(Math.random() * allItemOrPowers.length)];
+    itempowercontainer.dataset.rarity = chosen.rarity;
+    itempowerimg.src = chosen.image;
+    itempowername.textContent = chosen.power || chosen.name;
+    itemrarity.textContent = chosen.rarity;
+    itempowertooltip.innerHTML = chosen.description;
   };
 }
