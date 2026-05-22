@@ -149,13 +149,6 @@ body {
   height: 68px;
 }
 
-.filter-container label{
-  background-color: #8B3A15;
-  padding: 6px 20px;
-  text-align: center;
-  border-radius: 5px;
-}
-
 .filter-container input[type="radio"] {
   display: none;
 }
@@ -180,6 +173,35 @@ body {
   color: #ffffff;
   font-size: 1.2rem;
   font-weight: bold;
+  background-color: #8B3A15;
+  padding: 6px 20px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.filter-survivor-container label,
+.filter-killer-container label{
+  transition: opacity 0.3s;
+  cursor: pointer;
+}
+/* Deixa o outro botão com opacidade para destacar qual você selecionou */
+
+.filter-container:has(input[value="survivor"]:checked) .filter-killer-container {
+  opacity: 0.2;
+}
+
+.filter-container:has(input[value="killer"]:checked) .filter-survivor-container {
+  opacity: 0.2;
+}
+
+/* Deixa o cursor padrão para o já selecionado */
+
+.filter-container:has(input[value="survivor"]:checked) .filter-survivor-container * {
+  cursor: default;
+}
+
+.filter-container:has(input[value="killer"]:checked) .filter-killer-container * {
+  cursor: default;
 }
 
 .filter-container button {
@@ -221,10 +243,8 @@ body {
   height: 128px;
 }
 
-.itempower-container span {
+#itempowername {
   color: #ffffff;
-  font-size: 1.2rem;
-  font-weight: bold;
 }
 
 .itempowertooltip {
@@ -244,6 +264,17 @@ body {
 .itempower-container:hover .itempowertooltip {
   display: block;
 }
+
+.itempower-container span {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+[data-rarity="Common"] #itemrarity  { color: #7A5A3A; }
+[data-rarity="Uncommon"] #itemrarity { color: #5C8A3C; }
+[data-rarity="Rare"]     #itemrarity { color: #2B6FB0; }
+[data-rarity="Very Rare"] #itemrarity { color: #7A3FA8; }
+
 
 .button-randomizer-container {
   display: flex;

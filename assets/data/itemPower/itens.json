@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Alex's Toolbox",
+    "image": "assets/images/itens/alexs toolbox purple.png",
+    "rarity": "Very Rare",
+    "description": "A metal box containing mainly saws and vice grips of varying sizes but also other tools. Even though the content of this Toolbox is clearly aimed at destructive deeds, it can be used to repair various mechanical components as well.<br><br><b>18 charges</b>.<b>Increases</b> repair speed by <b>10%</b>.Unlocks the <b>sabotage</b> action.<b>Increases</b> sabotage speed by <b>100%</b>.<br><br>Repairing a generator requires <b>90</b> charges.<br><br>Sabotaging a hook requires <b>6</b> charges."
+  },
+  {
+    "name": "Annotated Map",
+    "image": "assets/images/itens/annotated map blue.png",
+    "rarity": "Rare",
+    "description": "The sketch is clear and detailed. Strange knowledge flows into you, followed by dread uncertainty.<br><br>Press the Use Item Button to reveal auras of all pallets and vaults within <b>40 meters</b> for <b>14 seconds</b>.Using the secondary interaction creates a beam of light at the Survivor's location. Generators within <b>32 meters</b> of the beam of light have their auras revealed.6 charges."
+  },
+  {
+    "name": "Apprentice's Fog Vial",
+    "image": "assets/images/itens/apprentices fog vial brown.png",
+    "rarity": "Common",
+    "description": "Made by the hands of a diligent but timid novice.<br><br>Releases concentrated Fog.Fog Cloud lasts for <b>8 seconds</b>Fog Cloud expands to a maximum of <b>8 meters</b>.While inside a Fog Cloud, auras are suppressed, and Survivors leave no scratch marks and make no sound.Has 4 charges.Recharges over <b>70 seconds</b>."
+  },
+  {
+    "name": "Artisan's Fog Vial",
+    "image": "assets/images/itens/artisans fog vial green.png",
+    "rarity": "Uncommon",
+    "description": "Crafted by an experienced glazier with a love for her craft.Releases concentrated Fog.Fog Cloud lasts for <b>10 seconds</b>Fog Cloud expands to a maximum of <b>8 meters</b>.While inside a Fog Cloud, auras are suppressed, and Survivors leave no scratch marks and make no sound.Has 4 charges.Recharges over <b>65 seconds</b>."
+  },
+  {
+    "name": "Broken Key",
+    "image": "assets/images/itens/brokenkey.png",
+    "rarity": "Common",
+    "description": "The bow and shank of a key, vibrating with power.<br><br><br>Consume a charge to:<br><br>Reveal auras of Survivors within <b>48 meters</b> for <b>8 seconds</b> by holding the Use Item Button.<br><br><br>Begins with <b>6 charges</b>."
+  },
+  {
+    "name": "Camping Aid Kit",
+    "image": "assets/images/itens/camping aid kit brown.png",
+    "rarity": "Common",
+    "description": "A rudimentary aid kit which can save lives in emergencies, even if it's lacking some of its supplies.<br><br><b>24 charges</b>.<b>Increases</b> the speed that you heal others by <b>35%</b>.Unlocks the <b>self-healing</b> action.<b>Decreases</b> the speed and efficiency when healing yourself by <b>33%</b>.<br><br>A full heal requires <b>16</b> charges."
+  },
+  {
+    "name": "Chinese Firecracker",
+    "image": "assets/images/itens/firecracker.png",
+    "rarity": "Common",
+    "description": "A row of small explosive devices wrapped in heavy paper casing. Detonates into loud bangs and intense light flashes. Can be used as a distraction, as a blinding device or to celebrate.<br><br><b>1 charge.</b>"
+  },
+  {
+    "name": "Commodious Toolbox",
+    "image": "assets/images/itens/commodious toolbox blue.png",
+    "rarity": "Rare",
+    "description": "A large metal box containing basic tools and extra mechanical parts. Even without training, can be used to repair or break various mechanical components.<br><br><b>32 charges</b>.<b>Increases</b> repair speed by <b>50%</b>.Unlocks the <b>sabotage</b> action.<b>Increases</b> sabotage speed by <b>50%</b>.<br><br>Repairing a generator requires <b>90</b> charges.<br><br>Sabotaging a hook requires <b>6</b> charges."
+  },
+  {
+    "name": "Cryptic Map",
+    "image": "assets/images/itens/Crypticmap brown.png",
+    "rarity": "Common",
+    "description": "Looking at it, the directions make no sense. But merely holding it grants you an uncanny intuition.<br><br>Press the Use Item Button to reveal auras of all pallets and vaults within <b>24 meters</b> for <b>10 seconds</b>.Using the secondary interaction creates a beam of light at the Survivor's location. Generators within <b>32 meters</b> of the beam of light have their auras revealed.4 charges."
+  },
+  {
+    "name": "Dull Key",
+    "image": "assets/images/itens/dullkey green.png",
+    "rarity": "Uncommon",
+    "description": "A bent and dull Key that once held great power.<br><br><br>Consume a charge to:<br><br>Reveal auras of Survivors within <b>56 meters</b> for <b>9 seconds</b> by holding the Use Item Button.Unlock Chests quickly. Chests unlocked with this Key have a revealed aura within 42 meters, enabling another Survivor to rummage once, and will contain items of at least Rare quality.Unlock the Hatch.<br><br><br>Begins with <b>5 charges.</b>"
+  },
+  {
+    "name": "Emergency Med-kit",
+    "image": "assets/images/itens/emergency med-kit blue.png",
+    "rarity": "Rare",
+    "description": "A sturdy and well organized medical kit equipped with top condition emergency supplies.<br><br><b>24 charges</b>.<b>Increases</b> the speed that you heal others by <b>45%</b>.Unlocks the <b>self-healing</b> action.<b>Decreases</b> the speed and efficiency when healing yourself by <b>33%</b>.<br><br>A full heal requires <b>16</b> charges."
+  },
+  {
+    "name": "Engineer's Toolbox",
+    "image": "assets/images/itens/engineers toolbox purple.png",
+    "rarity": "Very Rare",
+    "description": "Metal box with highly specialized tools meant for engineering. Most of the tools can still be used by neophytes to make fast repairs or break various mechanical components.<br><br><b>16 charges</b>.<b>Increases</b> repair speed by <b>100%</b>.Unlocks the <b>sabotage</b> action.<b>Increases</b> sabotage speed by <b>10%</b>.<br><br>Repairing a generator requires <b>90</b> charges.<br><br>Sabotaging a hook requires <b>6</b> charges."
+  },
+  {
+    "name": "First Aid Kit",
+    "image": "assets/images/itens/first aid kit green.png",
+    "rarity": "Uncommon",
+    "description": "A standard first aid kit with all the necessary equipment for treating common to more serious injuries.<br><br><b>24 charges.</b><b>Increases</b> the speed that you heal others by <b>40%</b>.Unlocks the <b>self-healing</b> action.<b>Decreases</b> the speed and efficiency when healing yourself by <b>33%</b>.<br><br>A full heal requires <b>16</b> charges."
+  },
+  {
+    "name": "Flashlight",
+    "image": "assets/images/itens/flashlight green.png",
+    "rarity": "Uncommon",
+    "description": "A standard Flashlight. Can be used to light your way in the darkness.<br><br><b>8 seconds</b> of use."
+  },
+  {
+    "name": "Mechanic's Toolbox",
+    "image": "assets/images/itens/mechanics toolbox blue.png",
+    "rarity": "Rare",
+    "description": "Metal box with specialized mechanics tools. Even without training, can be used to repair or break various mechanical components.<br><br><b>16 charges</b>.<b>Increases</b> repair speed by <b>75%</b>.Unlocks the <b>sabotage</b> action.<b>Increases</b> sabotage speed by <b>25%</b>.<br><br>Repairing a generator requires <b>90</b> charges.<br><br>Sabotaging a hook requires <b>6</b> charges.<br>"
+  },
+  {
+    "name": "Ranger Med-kit",
+    "image": "assets/images/itens/ranger med-kit purple.png",
+    "rarity": "Very Rare",
+    "description": "A large metal box containing medical supplies aimed for emergency rescues in hard to reach, often isolated locations.<br><br><b>24 charges</b>.<b>Increases</b> the speed that you heal others by <b>50%</b>.Unlocks the <b>self-healing</b> action.<b>Decreases</b> the speed and efficiency when healing yourself by <b>33%</b>.<br><br>A full heal requires <b>16</b> charges."
+  },
+  {
+    "name": "Scribbled Map",
+    "image": "assets/images/itens/scribbled map green.png",
+    "rarity": "Uncommon",
+    "description": "Peering at the parchment, a path appears in your mind. Moments later, you feel lost again.<br><br>Press the Use Item Button to reveal auras of all pallets and vaults within <b>32 meters</b> for <b>12 seconds</b>.Using the secondary interaction creates a beam of light at the Survivor's location. Generators within <b>32 meters</b> of the beam of light have their auras revealed.5 charges."
+  },
+  {
+    "name": "Skeleton Key",
+    "image": "assets/images/itens/skeleton key blue.png",
+    "rarity": "Rare",
+    "description": "A tarnished and crooked key, vibrating with ominous power.<br><br><br>Consume a charge to:<br><br>Reveal auras of Survivors within <b>64 meters</b> for <b>10 seconds</b> by holding the Use Item Button.Unlock Chests quickly. Chests unlocked with this Key have a revealed aura within 42 meters, enabling another Survivor to rummage once, and will contain items of at least Rare quality.Unlock the Hatch.<br><br><br>Begins with <b>6 charges.</b>"
+  },
+  {
+    "name": "Sport Flashlight",
+    "image": "assets/images/itens/sport flashlight blue.png",
+    "rarity": "Rare",
+    "description": "A very portable Flashlight with a good grip. Its efficient technology produces a powerful light while consuming less power.<br><br><b>8 Seconds of use</b>.<b>Decreases</b> Flashlight battery consumption by <b>11%</b>.<b>Increases</b> the accuracy of the Flashlight beam by <b>20%</b>."
+  },
+  {
+    "name": "Toolbox",
+    "image": "assets/images/itens/toolbox green.png",
+    "rarity": "Uncommon",
+    "description": "Metal box containing a set of basic tools. Even without training, can be used to repair or break various mechanical components.<br><br><b>20 charges.</b><b>Increases</b> repair speed by <b>50%</b>.Unlocks the <b>sabotage</b> action.<b>Increases</b> sabotage speed by <b>15%</b>.<br><br>Repairing a generator requires <b>90</b> charges.<br><br>Sabotaging a hook requires <b>6</b> charges."
+  },
+  {
+    "name": "Utility Flashlight",
+    "image": "assets/images/itens/utility flashlight purple.png",
+    "rarity": "Very Rare",
+    "description": "A sturdy but heavy Flashlight that packs a lot of power.<br><br><b>12 Seconds of use</b>.<b>Increases</b> the brightness of the Flashlight beam by <b>30%</b>.<b>Increases</b> Blindness duration by <b>15%</b>.<b>Decreases</b> the accuracy of the Flashlight beam by <b>20%</b>."
+  },
+  {
+    "name": "Vigo's Fog Vial",
+    "image": "assets/images/itens/vigos fog vial blue.png",
+    "rarity": "Rare",
+    "description": "From the man’s own collection. Impeccable. Unparalleled.Releases concentrated Fog.Fog Cloud lasts for <b>12 seconds</b>Fog Cloud expands to a maximum of <b>8 meters</b>.While inside a Fog Cloud, auras are suppressed, and Survivors leave no scratch marks and make no sound.Has 4 charges.Recharges over <b>60 seconds</b>."
+  },
+  {
+    "name": "Worn-out Tools",
+    "image": "assets/images/itens/Worn-out toolbox brown.png",
+    "rarity": "Common",
+    "description": "Metal box containing out of condition tools that could break at any moment. Even without training, can be used to repair or break various mechanical components.<br><br><b>16 charges</b>.<b>Increases</b> repair speed by <b>50%</b>.<b>Decreases</b> Skill Check success zone size by <b>10%</b>.Unlocks the <b>sabotage</b> action.<br><br>Repairing a generator requires <b>90</b> charges.<br><br>Sabotaging a hook requires <b>6</b> charges."
+  }
+]
