@@ -180,6 +180,13 @@ body {
   user-select: none;
 }
 
+.filter-container .icon-label {
+  all: unset;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+}
+
 .filter-survivor-container label,
 .filter-killer-container label{
   transition: opacity 0.3s;
