@@ -44,6 +44,7 @@ Escolha entre Survivor ou Killer e receba uma build completa em um clique.</p>
   <img src="assets/images/readme/screenshot.png" alt="Tela do randomizer" width="80%" />
   <br/>
   <sub><em>Página inicial. O layout pode sofrer alterações.</em></sub>
+  <br/>
 </div>
 
 O **DeadByRandomizer** nasceu para resolver um problema comum de quem joga Dead by Daylight: cansar de usar sempre a mesma build. Você escolhe o lado (Survivor ou Killer) e o site sorteia uma build completa, com quatro perks diferentes e um item ou poder.
